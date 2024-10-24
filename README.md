@@ -30,7 +30,7 @@ The analysis is based on the Superstore dataset, which includes sales, returns, 
   - **Sales and Profit**: For contextualizing the financial impact.
 
 ## Key Findings
-
+![image](https://github.com/user-attachments/assets/00132861-2037-4ff3-aa01-25a3776ff188)
 ### Measuring Returns
 
 - **Return Rate** is effective for normalizing returns by sales volume, highlighting problematic areas.
